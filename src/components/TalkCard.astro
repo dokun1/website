@@ -1,0 +1,41 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  talk: CollectionEntry<'talks'>;
+}
+
+const { talk } = Astro.props;
+const { data } = talk;
+
+import type { Talk } from './../types';
+interface Props {
+  talk: Talk;
+}
+
+---
+
+<article class="talk-card">
+  <h2><a href={`/talks/${talk.slug}/`}>{data.title}</a></h2>
+  <p>{data.abstract}</p>
+  <p>
+    <strong>Date:</strong> {data.date.toLocaleDateString()}
+    <br />
+    <strong>Location:</strong> {data.location}, {data.geo}
+  </p>
+  <p>
+    {data.slide_url && <a href={data.slide_url}>Slides</a>}
+    {data.video_url && (
+      <>
+        {' | '}
+        <a href={data.video_url}>Video</a>
+      </>
+    )}
+    {data.location_url && (
+      <>
+        {' | '}
+        <a href={data.location_url}>Event Details</a>
+      </>
+    )}
+  </p>
+</article>

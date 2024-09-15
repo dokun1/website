@@ -25,4 +25,22 @@ const blog = defineCollection({
     }),
 });
 
-export const collections = { blog };
+const talks = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    abstract: z.string(),
+    date: z
+      .string()
+      .or(z.date())
+      .transform((str) => new Date(str)),
+    author: z.string(),
+    geo: z.string(),
+    location: z.string(),
+    slide_url: z.string().url().optional(),
+    video_url: z.string().url().optional(),
+    location_url: z.string().url().optional(),
+  }),
+});
+
+export const collections = { blog, talks };

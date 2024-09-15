@@ -19,3 +19,21 @@ export type SocialObjects = {
   active: boolean;
   linkTitle: string;
 }[];
+
+export interface TalkFrontmatter {
+  title: string;
+  abstract: string;
+  date: Date;
+  author: string;
+  geo: string;
+  location: string;
+  slide_url?: string;
+  video_url?: string;
+  location_url?: string;
+}
+
+export type Talk = {
+  data: TalkFrontmatter;
+  slug: string;
+  body: string;
+};

@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+import Layout from '@layouts/Layout.astro';
+import TalkCard from '@components/TalkCard.astro';
+
+type TalkEntry = CollectionEntry<'talks'>;
+
+const talks: TalkEntry[] = await getCollection('talks');
+
+// Sort talks by date (newest first)
+talks.sort((a: TalkEntry, b: TalkEntry) => b.data.date.getTime() - a.data.date.getTime());
+---
+
+<Layout title="Talks">
+  <h1 class="page-title">Talks</h1>
+  <p class="page-description">All the talks I've given.</p>
+
+  <ul class="talks-list">
+    {talks.map((talk: TalkEntry) => (
+      <li>
+        <TalkCard talk={talk} />
+      </li>
+    ))}
+  </ul>
+</Layout>
