@@ -11,8 +11,6 @@ description:
   Reflecting on Kobe.
 ---
 
-## Table of Contents
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Let people express their grief on social media. It’s cathartic for a lot of folks and one of the good things about this thing. Performative mourning is different, but people reaching out to each other - that’s not bad, that’s good. Feel free to ignore me. I’m for more kindness.</p>&mdash; Jake Fogelnest (@jakefogelnest) <a href="https://twitter.com/jakefogelnest/status/1221550245999304704?ref_src=twsrc%5Etfw">January 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Everyone's got a take on Kobe. Here's mine.

@@ -3,7 +3,7 @@ layout: ../layouts/CVLayout.astro
 title: "CV"
 ---
 
-- [PDF Version](../../OkunCV.pdf)
+- [PDF Version](https://raw.githubusercontent.com/dokun1/website/main/OkunCV.pdf)
 
 ## Summary
 
