@@ -17,6 +17,8 @@ description:
 
 > This is mirrored from the [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix/2018/01/kitura-2-0-taking-advantage-of-codable-routes/)
 
+## Table of Contents
+
 ## A Swift evolution
 
 Swift on the server remains a fresh frontier for the primarily-mobile programming language. Though the language itself is evolving at a rapid pace, the server side segment of the language is beginning to see an increase in adoption.

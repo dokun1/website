@@ -3,7 +3,7 @@ layout: ../layouts/CVLayout.astro
 title: "CV"
 ---
 
-- [PDF Version](/src/assets/OkunCV.pdf)
+- [PDF Version](../../OkunCV.pdf)
 
 ## Summary
 
@@ -14,20 +14,20 @@ Accomplished software architect, published author, and public speaker. Experienc
 ### Principal Engineer, Austin, TX, LTK
 #### Nov 2023 - Present
 
-- Worked with a large engineering team to deliver world class user experiences on content creator e-commerce websites and mobile apps with +1M MAU each.
-- Collaborated with UX and Product to deliver multiple org wide systems, including design systems & design review sessions.
+- Worked with a large engineering team to deliver world class user experiences on content creator e-commerce websites and mobile apps with +1M monthly active users each
+- Collaborated with UX and Product to deliver multiple org wide systems, including design systems & design review sessions
 
 ### Distinguished Engineer, Austin, TX, Charles Schwab
 #### Feb 2020 - Nov 2023
 
 - Managed three native mobile applications on the Apple App Store & Google Play Store, one of which currently features ~1.2M daily active users
-- Authored & maintained architectural standards & framework for a large team of iOS & Android engineers
-- Acted as chief native technology architect during largest merger of two brokerages (Schwab & TDAmeritrade) in United States history
+- Authored architectural standards & framework for a large team of mobile engineers
+- Acted as chief native technology architect during largest merger of two brokerages (Schwab & TDAmeritrade) in United States history, resulting in $9.57T assets under management
 
 ### Lead Developer Advocate, Austin, TX, IBM
 #### Nov 2016 - Feb 2020
 - Responsible for leading team of client-facing developer advocates
-- Organized and executed developer-focused training sessions on cloud native development using Docker and Kubernetes to advocate for language-agnostic 
+- Organized and executed developer-focused training sessions on cloud native development using Docker and Kubernetes to advocate for language-agnostic, including OpenShift content during $34B acquisition of RedHat
 - Extensive work with the Swift@IBM team attending & speaking at conferences and advocating for the Swift runtime on Linux to customers and the developer community
 
 ### Resident Author, Kodeco (formerly raywenderlich.com)

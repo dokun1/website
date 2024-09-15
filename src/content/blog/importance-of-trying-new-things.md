@@ -13,6 +13,8 @@ description:
   A deeper look into the approach anxiety of the unknown.
 ---
 
+## Table of Contents
+
 ## Taking The Broccoli
 
 When I was about 8 years old and living in Houston, my family friend Barnet took me to the grocery store. I lost a bet. I don't remember what the bet was, but I know I lost, because my end of the bargain was that I had to eat broccoli for lunch. I distinctly remember the schadenfreude in Barnet's laughter as he made me pick out my own stalk of broccoli to eat.
@@ -20,7 +22,7 @@ When I was about 8 years old and living in Houston, my family friend Barnet took
 We went home and he steamed the broccoli. I sat down, and chewed on the first forkful for at least 5 minutes. Barnet always tells me that I looked like I was taking medicine, so he loves telling people that I told my mom that, having lost the bet, "I took the broccoli."
 
 <p align="center">
-<img src="http://www.stjhs.org/images/2015-Dec/kid-broccoli[2].JPG"/> "Mom, I took the broccoli."
+    <img src="https://i.kym-cdn.com/entries/icons/facebook/000/039/209/momithrewup.jpg"/> "Mom, I took the broccoli."
 </p>
 
 It's probably not the craziest thing in the world to imagine parent-figures taking drastic measures to get a young person to try new foods. People being picky about what they eat isn't exactly breaking news either. However, this stuck with me for a while. 

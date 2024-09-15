@@ -16,6 +16,8 @@ description:
   A walk through how I previously made it so you could email me anything you drew in a square - and boy did I get some bangers in my email.
 ---
 
+## Table of Contents
+
 As I start getting more comfortable with web technology, both on the front end and the back end, I get curious about trying new things. Who doesn't love drawing On The Internet (© 2018)?
 
 I wanted to put a canvas on my homepage that you could draw on, and I wanted to be able to see your images. I mean...this *shouldn't* be too complicated, right? Draw an image and send it somewhere, right?

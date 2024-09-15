@@ -19,6 +19,8 @@ description:
 
 **Editor's Note: This is mirrored from [RayWenderlich.com](https://www.raywenderlich.com/181130/kitura-stencil-tutorial-how-to-make-websites-with-swift).**
 
+## Table of Contents
+
 IBM's <a href="http://kitura.io" rel="noopener" target="_blank">Kitura</a> is a very popular and exciting server framework, but did you know it can be used to create web apps?
 
 In this tutorial on Kitura and <a href="https://github.com/kylef/Stencil" rel="noopener" target="_blank">Stencil</a>, you'll pick up from the <a href="https://www.raywenderlich.com/180721/kitura-tutorial-getting-started-with-server-side-swift" rel="noopener" target="_blank">first part</a> of this tutorial series and do the following:

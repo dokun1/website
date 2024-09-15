@@ -18,6 +18,8 @@ description:
 
 > This is a [tutorial](https://www.kodeco.com/188345/swift-server-tutorial-tcp-server-with-the-swiftnio-networking-framework) I wrote coming back from try! Swift in Tokyo after learning about the new SwiftNIO framework.
 
+## Table of Contents
+
 Mobile developers often work with REST APIs or other networking protocols in their applications — whether it's to retrieve data, communicate with other devices, or something else. <em><a href="https://github.com/apple/swift-nio/" rel="noopener" target="_blank">SwiftNIO</a></em>, written by Apple, is a low-level networking framework that makes writing Swift servers even easier than before, empowering Swift developers to leverage their skills on the server side.
 
 In this tutorial, you'll: 

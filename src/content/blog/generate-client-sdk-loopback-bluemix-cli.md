@@ -16,6 +16,8 @@ description:
 
 > This is a post I wrote for the [strongloop blog](https://strongloop.com/strongblog/generate-client-sdk-loopback-bluemix-cli) back in the day.
 
+## Table of Contents
+
 ![](http://i.imgur.com/WztyOGl.png)
 
 If you're reading this post, it's entirely possible that you've been exposed to the goodness that is [LoopBack](http://loopback.io/). If not, I'd recommend checking out [my video showing you how you can create an API with LoopBack in just 5 minutes](https://developer.ibm.com/apiconnect/2017/03/09/loopback-in-5-minutes/).

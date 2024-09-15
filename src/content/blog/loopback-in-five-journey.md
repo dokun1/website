@@ -17,6 +17,8 @@ description:
 
 > This is based on a blog post and series I wrote for [IBM DevWorks](https://strongloop.com/strongblog/strongloop-and-ibm-do-oscon/). The associate code repo is [here](https://github.com/IBM/loopback-in-five).
 
+## Table of Contents
+
 ## You Need An API
 
 Applications these days need APIs. And let’s face it – it’s not always easy to set them up. LoopBack is a Node API framework built to solve this problem. Using LoopBack, you can quickly generate powerful REST APIs in 5 minutes, flat. Using IBM Cloud, you can deploy them in 5 more minutes, flat.

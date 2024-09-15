@@ -15,6 +15,8 @@ description:
   An introduction to a camera framework that should help you go fast.
 ---
 
+## Table of Contents
+
 ## Demo Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8eEAvcy708s" frameborder="0" allowfullscreen></iframe>

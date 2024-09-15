@@ -17,6 +17,8 @@ description:
   A blog post on the [strongloop blog](https://strongloop.com/strongblog/loopback-facebook-api-user-authentication/) about authentication.
 ---
 
+## Table of Contents
+
 When you use LoopBack to set up your API, you can integrate it with [Passport](https://passportjs.org) to enable your application for third party logins. But what if that just doesn't cut it for you? Do you need to roll something custom-made?
 
 In this post, we'll show you how you can use the REST connector in LoopBack to connect with the Facebook Graph API, and how you can leverage that connection for user authentication in a server application primarily for mobile clients.

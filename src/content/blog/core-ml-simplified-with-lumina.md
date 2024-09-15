@@ -16,7 +16,9 @@ description:
   Explaining how my camera framework makes it easy to work with CoreML.
 ---
 
-> This is mirrored from A post I wrote for[Fritz.ai](https://heartbeat.fritz.ai/Core ML-simplified-with-lumina-745e61035f30).
+> This is mirrored from A post I wrote for [Fritz.ai](https://heartbeat.fritz.ai/CoreML-simplified-with-lumina-745e61035f30).
+
+## Table of Contents
 
 If you've ever considered working with the new Core ML framework in iOS, you might have seen a demo video like this:
 
