@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "David Okun",
   profile: "https://github.com/dokun1/",
   desc: "My personal website and portfolio",
-  title: "David Okun",
+  title: "meus dev situs",
   ogImage: "pennyog.jpg",
   lightAndDarkMode: true,
   postPerIndex: 3,
@@ -48,6 +48,12 @@ export const SOCIALS: SocialObjects = [
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/david-okun/",
     linkTitle: `${SITE.title} on LinkedIn`,
+    active: true,
+  },
+  {
+    name: "StackOverflow",
+    href: "https://stackoverflow.com/users/1604167/dokun1",
+    linkTitle: `${SITE.title} on StackOverflow`,
     active: true,
   },
   {
