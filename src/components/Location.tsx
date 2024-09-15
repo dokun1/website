@@ -25,9 +25,9 @@ export default function LocationComponent({
         version="1.1"
         id="XMLID_171_"
         xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlnsXlink="http://www.w3.org/1999/xlink"
         viewBox="-4 -4 32 32"
-        xml:space="preserve"
+        xmlSpace="preserve"
       >
         <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
         <g
