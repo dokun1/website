@@ -1,5 +1,6 @@
 ---
 import Breadcrumbs from "@components/Breadcrumbs.astro";
+import { GoogleAnalytics } from 'astro-google-analytics';
 
 interface StringTitleProp {
   pageTitle: string;
@@ -18,6 +19,9 @@ const { props } = Astro;
 ---
 
 <Breadcrumbs />
+<head>
+  <GoogleAnalytics id="G-MJCWH5K3PY" />
+</head>
 <main id="main-content">
   {
     "titleTransition" in props ? (
