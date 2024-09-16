@@ -17,9 +17,7 @@ description:
   A post I wrote on Kodeco (formerly raywenderlich.com) about writing stencil websites using Swift.
 ---
 
-**Editor's Note: This is mirrored from [RayWenderlich.com](https://www.raywenderlich.com/181130/kitura-stencil-tutorial-how-to-make-websites-with-swift).**
-
-## Table of Contents
+> This is mirrored from a tutorial I wrote for [Kodeco (formerly raywenderlich.com)](https://www.raywenderlich.com/181130/kitura-stencil-tutorial-how-to-make-websites-with-swift).
 
 IBM's <a href="http://kitura.io" rel="noopener" target="_blank">Kitura</a> is a very popular and exciting server framework, but did you know it can be used to create web apps?
 
@@ -32,6 +30,8 @@ In this tutorial on Kitura and <a href="https://github.com/kylef/Stencil" rel="n
 
 
 If you’re new to Kitura, or haven’t set up CouchDB on your system yet, check out the <a href="https://www.raywenderlich.com/180721/kitura-tutorial-getting-started-with-server-side-swift">Server Side Swift with Kitura</a> tutorial first.
+
+## Table of Contents
 
 ## Getting Started
 

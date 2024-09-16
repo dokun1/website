@@ -18,4 +18,10 @@ Often times, if I can't sleep at night, I try thinking of unique ways in which I
 
 If you have the same issue, then the short screencast video below is for you!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XwqDDo2MI6s" frameborder="0" allowfullscreen></iframe>
+<center>
+    <div style="max-width: 560px; margin: 0 auto;">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe src="https://www.youtube.com/embed/XwqDDo2MI6s" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</center>

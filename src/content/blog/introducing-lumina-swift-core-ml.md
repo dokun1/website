@@ -19,7 +19,14 @@ description:
 
 ## Demo Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8eEAvcy708s" frameborder="0" allowfullscreen></iframe>
+<center>
+<div style="max-width: 560px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe height="315" src="https://www.youtube.com/embed/8eEAvcy708s" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+</center>
+
 
 ## Re-Writing AVFoundation Code Can Be A Hassle
 
@@ -77,6 +84,17 @@ Since this framework is written to work with iOS 11.0 and above, you'll have to 
 
 I released a video that walks through how to set up and use Lumina. You can watch it again here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8eEAvcy708s" frameborder="0" allowfullscreen></iframe>
+<center>
+    <div style="max-width: 560px; margin: 0 auto;">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe
+                height="315"
+                src="https://www.youtube.com/embed/8eEAvcy708s"
+                frameborder="0" 
+                allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+</center>
 
 Please feel free to check the repository [here](https://github.com/dokun1/Lumina) if you want to check the progress of the framework, or if you want to help out - I'd love to see other contributors hop on!

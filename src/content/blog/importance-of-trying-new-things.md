@@ -3,7 +3,7 @@ author: David Okun
 pubDatetime: 2018-09-04T00:00:00Z
 title: The Importance of Trying New Things
 slug: the-importance-of-trying-new-things
-featured: true
+featured: false
 draft: false
 tags:
   - life
@@ -12,8 +12,6 @@ tags:
 description:
   A deeper look into the approach anxiety of the unknown.
 ---
-
-## Table of Contents
 
 ## Taking The Broccoli
 

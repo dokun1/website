@@ -16,8 +16,6 @@ description:
   What I learned from my role at IBM, and what's next for me.
 ---
 
-## Table of Contents
-
 My interview process with IBM, from start to finish, lasted three months. I initially interviewed for an engineering position on the Swift team at IBM, and I would have focused on Kitura. At first, the team said they were unable to find room for me, and to call back in 1 - 6 months.
 
 After three more weeks, I got a call asking if I would be interested in joining the Strongloop team advocating for [Loopback](https://loopback.io/), which is a Node.js server-generation framework, but as an evangelist for Swift developers. I mean...sure? I hesitated before ultimately taking the role, and for two reasons.

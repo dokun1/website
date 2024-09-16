@@ -15,7 +15,7 @@ description:
   Learn how to use Codable and Kitura for a clean server interface.
 ---
 
-> This is mirrored from the [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix/2018/01/kitura-2-0-taking-advantage-of-codable-routes/)
+> This is mirrored from a post I wrote for the [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix/2018/01/kitura-2-0-taking-advantage-of-codable-routes/).
 
 ## Table of Contents
 

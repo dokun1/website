@@ -29,9 +29,23 @@ LoopBack is free to use and open source, so it’s easy to follow along in this 
 
 ## Videos!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pFPMFcPNgKA" frameborder="0" allowfullscreen></iframe>
+<center>
+    <div style="max-width: 560px; margin: 0 auto;">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe height="315" src="https://www.youtube.com/embed/pFPMFcPNgKA" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlP8mCcQDDY" frameborder="0" allowfullscreen></iframe>
+<br>
+
+<center>
+    <div style="max-width: 560px; margin: 0 auto;">
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+            <iframe height="315" src="https://www.youtube.com/embed/nlP8mCcQDDY" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</center>
 
 ## Want To Know More?
 

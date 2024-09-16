@@ -25,6 +25,14 @@ Of course, I don't mind if you use IBM Cloud (illuminati confirmed), but I think
 
 The session is quite long, but its full of wonderful #content, and I recommend you give it a watch if you're interested!
 
-<center>
-    <iframe src="https://player.twitch.tv/?allowfullscreen&channel=ibmdeveloper&video=333643594" width="640" height="360" frameborder="0" scrolling="no" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
-</center>
+
+<div style="max-width: 560px; margin: 0 auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+        src="https://player.twitch.tv/?video=333643594&parent=streamernews.example.com&autoplay=false"
+        height="720"
+        width="1280"
+        allowfullscreen>
+    </iframe>    
+  </div>
+</div>

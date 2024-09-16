@@ -13,8 +13,6 @@ description:
   Struggling with the basics, back in the day.
 ---
 
-## Table of Contents
-
 Finally!!!
 
 Tech debt is one thing, but when it's something you care personally about, it's insidious at worst. I've not been doing a good job keeping this here web log updated, but I finally had some time (and some help!) to do it this weekend while at an event in San Francisco, and I'm thrilled I automated some things.

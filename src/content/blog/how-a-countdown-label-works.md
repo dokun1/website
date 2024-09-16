@@ -13,14 +13,12 @@ description:
   This is from a blog I started back in 2014, when I aimed to teach Objective-C to people who were totally unfamiliar with programming. It's verbose, and I'm sorry, but also I am not sorry.
 ---
 
-## Table of Contents
-
 Welcome! I'll explain more about my overall goal in another post, but I'd like to hit the ground running. 
 
 I'll be showing you a chunk of code every week, and taking the time to break it down and explain exactly what it does. The goal is to have someone who has never written code understand what's going on. I don't ever want to confuse you, so I promise to never: 
 
-show you code blocks that are longer than 50 lines
-give you some long tutorial about how to build entire applications
+- show you code blocks that are longer than 50 lines
+- give you some long tutorial about how to build entire applications
 
 This week, I'll be showing you what happens when you want a label to show a countdown that updates every second. 
 

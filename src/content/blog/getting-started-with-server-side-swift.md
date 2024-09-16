@@ -15,9 +15,7 @@ description:
   Get an introduction to Swift on the Server.
 ---
 
-> This is a post I wrote for the [Kodeco (formerly raywenderlich.com)](https://www.raywenderlich.com/180721/kitura-tutorial-getting-started-with-server-side-swift) back in the day.
-
-## Table of Contents
+> This is a tutorial I wrote for [Kodeco (formerly raywenderlich.com)](https://www.raywenderlich.com/180721/kitura-tutorial-getting-started-with-server-side-swift).
 
 Are you a busy Swift developer, with no time to learn Node.js, but still feeling drawn to server-side development? This Kitura tutorial will teach you how to create RESTful APIs written entirely in Swift.
 
@@ -26,6 +24,8 @@ You'll build a "Today I Learned" app to help you learn and remember common acron
   - Create a backend API from scratch.
   - Link your API to a CouchDB instance running on your local machine.
   - Assign GET, POST, and DELETE routes for a model object.
+
+## Table of Contents
 
 ## Getting Started
 

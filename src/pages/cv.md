@@ -5,6 +5,8 @@ title: "CV"
 
 - [PDF Version](/assets/OkunCV.pdf)
 
+## Table of Contents
+
 ## Summary
 
 Accomplished software architect, published author, and public speaker. Experienced in architecting user experiences, systems, and developer tools for small and large applications. Proven leader of developer teams in multiple disciplines.
@@ -68,6 +70,15 @@ Accomplished software architect, published author, and public speaker. Experienc
 - Given talks at multiple international conferences on cloud and mobile computing to small and large audiences including try! Swift Tokyo 2019
 - Former co-organizer of weekly peer lab in Austin, Texas called [Weird Swift ATX](https://meetup.com/weird-swift-atx) where developers come together to provide help to one another in a lab environment
 Built a platform to live-stream development tutorials on Twitch and YouTube (bit.ly/okun-youtube-channel)
+
+## Publications
+
+### Server Side Swift with Kitura, Chris Bailey & David Okun - Kodeco
+
+Co-authored a comprehensive guide on server-side development with Swift and the Kitura
+framework. A complete tutorial of building scalable web services and RESTful APIs.
+
+> This book is no longer for sale digitally, and can be downloaded for free and in its entirety [here](https://cdn.raywenderlich.com/deprecated-books/kit/Server_Side_Swift_with_Kitura_v2.0.0.zip).
 
 ## Patents Filed (USPTO)
 

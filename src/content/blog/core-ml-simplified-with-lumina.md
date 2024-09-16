@@ -18,8 +18,6 @@ description:
 
 > This is mirrored from A post I wrote for [Fritz.ai](https://heartbeat.fritz.ai/CoreML-simplified-with-lumina-745e61035f30).
 
-## Table of Contents
-
 If you've ever considered working with the new Core ML framework in iOS, you might have seen a demo video like this:
 
 <p align="center">
@@ -32,6 +30,8 @@ What if I told you that you can get this exact same code sample working with one
 camera.streamingModelTypes = [MobileNet()]
 ```
 No manual image resizing. No model validation. No multithreading with Grand Central Dispatch. Just you and your machine learning model. Let's take a dive into how this works and how you can use it for any image classification model you have for Core ML.
+
+## Table of Contents
 
 ## Using Core ML Raw
 
