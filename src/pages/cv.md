@@ -16,8 +16,9 @@ Accomplished software architect, published author, and public speaker. Experienc
 ### Principal Engineer, Austin, TX, LTK
 #### Nov 2023 - Present
 
-- Worked with a large engineering team to deliver world class user experiences on content creator e-commerce websites and mobile apps with +1M monthly active users each
-- Collaborated with UX and Product to deliver multiple org wide systems, including design systems & design review sessions
+- Led and mentored a large engineering team to re-write the entire customer-facing mobile app in under five months using platform-recommended best practices and modern technologies
+- Drove early adoption of iOS 26 on our iOS apps, resulting in App Store feature placement and improved experience for 1.2 million+ daily active users
+- Served as engineering director for the company’s cross-platform design system unifying design language and accelerating development speed across multiple products
 
 ### Distinguished Engineer, Austin, TX, Charles Schwab
 #### Feb 2020 - Nov 2023

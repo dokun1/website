@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "David Okun",
   profile: "https://github.com/dokun1/",
   desc: "My personal website and portfolio",
-  title: "meus dev situs",
+  title: "my website",
   ogImage: "pennyog.jpg",
   lightAndDarkMode: true,
   postPerIndex: 3,
